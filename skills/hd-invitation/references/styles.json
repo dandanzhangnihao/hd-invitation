@@ -1,0 +1,40 @@
+{
+  "version": 3,
+  "default_style_id": "soft-medium-blue",
+  "selection_required": false,
+  "palettes": [
+    {
+      "id": "soft-medium-blue",
+      "name": "柔和中蓝",
+      "primary": "#236DB0",
+      "title": "#165693",
+      "bar_start": "#267EC6",
+      "bar_end": "#287BB9",
+      "background": "#BCDDEA",
+      "background_light": "#EAF7FA",
+      "panel": "#FFFDFA",
+      "border": "#258BA5",
+      "accent": "#D5AB47",
+      "body_text": "#202427",
+      "on_primary": "#FFFFFF",
+      "tone": "明亮、柔和、正式；避免荧光蓝和深暗大底"
+    }
+  ],
+  "layout": {
+    "format": "portrait-long",
+    "typical_width_px": [
+      1800,
+      2400
+    ],
+    "dense_content_min_long_edge_px": 4000,
+    "qr_label": "扫码报名",
+    "speaker_label": "讲者：",
+    "repeat_speaker_label": false,
+    "show_unconfirmed_hosts": false
+  },
+  "brand": {
+    "use_current_project_assets_only": true,
+    "preserve_original_logo_colors": true
+  },
+  "note": "通用设计近似值；用户本次要求优先，已批准海报的原字号和字形保持不变。"
+}
