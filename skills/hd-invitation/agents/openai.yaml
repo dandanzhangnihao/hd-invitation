@@ -1,0 +1,4 @@
+interface:
+  display_name: "高清邀请函制作"
+  short_description: "沿用柔和中蓝定稿效果制作通用高清邀请函，核对中文、原始标识及报名二维码"
+  default_prompt: "使用 $hd-invitation，先读取我提供的资料并一次列出必要缺项，再按柔和中蓝定稿效果直接制作高清邀请函，不限单位，不需要多配色选样。"
